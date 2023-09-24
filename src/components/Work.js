@@ -6,7 +6,7 @@ const Work = () => {
   return (
     <div className="work-container">
         <h1 className="project-heading">
-            Projects
+           <u>Customer  Projects</u> 
         </h1>
         <div className="project-container">
             {

@@ -6,6 +6,7 @@ import React, { useState } from 'react'
 const Navbar = () => {
     const [click, setClick] = useState(false)
     const [color, setColor] = useState(false)
+
     const handleClick=()=>setClick(!click)
     const changeColor = () =>{
         if(window.scrollY>=100){
@@ -19,7 +20,7 @@ const Navbar = () => {
   return (
     <div className={color?"header header-bg":"header"}>
         <Link to="/">
-            <h1>ByteCode</h1>
+            <h1>Byte Craft Labs</h1>
         </Link>
         <ul className={click?"nav-menu active":"nav-menu"}>
             <li>

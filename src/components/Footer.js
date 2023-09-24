@@ -14,31 +14,30 @@ const Footer = () => {
             </div>
           
           </div>
-          <div className='phone'>
-              <h4>
-          <FaPhone size={20} style={{color:"#fff",marginRight:"2rem"}}/>
-          {/* <a href="tel:++919740282157"> */}
-          +91 9740282157
-          {/* </a> */}
-                </h4>            
-          </div>
+          
+      
+
           <div className='email'>
               <h4>
                 
           <FaMailBulk size={20} style={{color:"#fff",marginRight:"2rem"}}/>
-          {/* <a href="mailto:mailamaynayak@gmail.com"> */}
-          mailamaynayak@gmail.com
-          {/* </a> */}
+          <a href="mailto:bytecraftlabbs@gmail.com"> 
+          bytecraftlabbs@gmail.com
+        </a>
                 </h4>            
           </div>
         </div>
         <div className='right'>
-        <h4>About the company</h4>
-            <p>This is me Amay, CEO & Founder of ByteCode. For any queries feel free contact us</p>
+        {/* <h4>About the company</h4>
+            <p>This is me Amay, CEO & Founder of ByteCode. For any queries feel free contact us</p> */}
+            <h4>About the Company</h4>
+<p>Welcome to ByteCode, where we are committed to excellence. Our mission is to provide you with outstanding service and solutions. For any inquiries, please do not hesitate to get in touch with our team.</p>
+
         <div className='social'>
-        <FaFacebook size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-        <FaTwitter size={30} style={{color:"#fff",marginRight:"1rem"}}/>
-        <FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+       <a href='https://www.linkedin.com/company/bytecraft-labs/'><FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/> </a>
+        {/* <FaTwitter size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+        
+        <FaFacebook size={30} style={{color:"#fff",marginRight:"1rem"}}/> */}
         </div>
         </div>
       </div>

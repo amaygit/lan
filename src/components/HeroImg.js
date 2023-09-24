@@ -11,14 +11,14 @@ const HeroImg = () => {
             />
         </div>
         <div className="content">
-            <p>HI, I'M A FREELANCER.</p>
-            <h1>React/Next Developer</h1>
+            <p>Innovation Meets Imagination</p>
+            <h1>Crafting Intelligence In Every <span>Byte</span></h1>
             <div>
                 <Link to="/project" className="btn">
                         Projects
                 </Link>
-                <Link to="/contact" className="btn btn-light">
-                        Contact
+                <Link to="/contacts" className="btn btn-light">
+                        Intern
                 </Link>
             </div>
         </div>
