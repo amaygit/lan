@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
-    margin-top: 20px; /* Add margin to space it from the paragraphs */
+    margin-top: 10px; /* Add margin to space it from the paragraphs */
   }
   
   /* Style the button */

@@ -65,9 +65,22 @@
     margin-top: 20px; /* Add margin to space it from the paragraphs */
     text-align: center; /* Center the button horizontally */
   }
-
+  .mobile-paragraph {
+    font-size: 1.4rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 10px; /* Adjust the margin as needed for spacing between paragraphs */
+}
 @media screen and (max-width:640px) {
     .hero-img h1{
         font-size: 2rem;
     }    
+    .mobile-paragraph {
+      font-size: 1.2rem; /* Adjust the font size for smaller screens */
+      margin-top: 10px; /* Adjust the margin as needed for spacing between paragraphs */
+  }
 }
