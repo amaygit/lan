@@ -33,13 +33,20 @@
     font-size: 2.4rem;
 }
 .hero-img p{
+    /* font-size: 1.4rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%; */
     font-size: 1.4rem;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    margin-bottom: 20px;
 }
 .paragraph-container {
     margin-top: 20px; /* Add margin to the paragraph container */
@@ -79,6 +86,9 @@
     .hero-img h1{
         font-size: 2rem;
     }    
+    .hero-img p {
+      margin-bottom: 10px; /* Reduce margin between paragraphs for smaller screens */
+  }
     .mobile-paragraph {
       font-size: 1.2rem; /* Adjust the font size for smaller screens */
       margin-top: 10px; /* Adjust the margin as needed for spacing between paragraphs */
