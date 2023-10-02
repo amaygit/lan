@@ -33,7 +33,12 @@ const Footer = () => {
             <h4>About the Company</h4>
 <p>Welcome to ByteCraft-Labs, where we are committed to excellence. Our mission is to provide you with outstanding service and solutions. For any inquiries, please do not hesitate to get in touch with our team.</p>
 
-      
+<div className='social'>
+       <a href='https://www.linkedin.com/company/bytecraftlabs/'><FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/> </a>
+        {/* <FaTwitter size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+        
+        <FaFacebook size={30} style={{color:"#fff",marginRight:"1rem"}}/> */}
+        </div>
         </div>
       </div>
     </div>

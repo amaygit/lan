@@ -40,7 +40,7 @@ const ProjectCardData=[
         imgsrc:pro6,
         title:"Connect and Share: Your Social Media Community Blog with Next.js",
         text:"Discover 'Connect and Share,' the vibrant social media community blog built with Next.js. Join our thriving online community, where users come together to share their thoughts, experiences, and insights. With a sleek and responsive design, seamless navigation, and powerful features, our web app provides an engaging platform for connecting, collaborating, and discussing the latest trends and topics. Join the conversation and be a part of our dynamic community today!",
-        view:"https://amayfight.netlify.app/"
+        view:"https://chatwithamay.vercel.app/"
     },
   
 ]

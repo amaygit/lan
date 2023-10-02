@@ -14,7 +14,7 @@ const PricingCard = () => {
                 <p>- MongoDB database / prisma (PSQL) -</p>
                 <p>- Responsive Design -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                    CONTACT
                 </Link>
             </div>
@@ -27,7 +27,7 @@ const PricingCard = () => {
                 <p>- Cloud Platform Exposure -</p>
                 <p>- Cloud Security and Compliance  -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                    CONTACT
                 </Link>
             </div>
@@ -40,7 +40,7 @@ const PricingCard = () => {
                 <p>- AI/ML -</p>
                 <p>- Enhanced Algorithms -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                    CONTACT
                 </Link>
             </div>
@@ -52,7 +52,7 @@ const PricingCard = () => {
                 <p>- AI/ML -</p>
                 <p>- Enhanced Algorithms -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                    CONTACT
                 </Link>
             </div>
@@ -65,7 +65,7 @@ const PricingCard = () => {
                 <p>- AI/ML -</p>
                 <p>- Enhanced Algorithms -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                    CONTACT
                 </Link>
             </div>
@@ -80,7 +80,7 @@ const PricingCard = () => {
                 <p>- AI/ML -</p>
                 <p>- Enhanced Algorithms -</p>
                 <p>- Certification Preparation -</p>
-                <Link to="/contacts" className='btn'>
+                <Link to="/contact" className='btn'>
                     CONTACT
                 </Link>
             </div>
